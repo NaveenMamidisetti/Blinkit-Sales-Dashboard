@@ -13,7 +13,7 @@ This project presents an interactive Power BI dashboard built on Blinkit grocery
 - DAX & Power Query
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](Dashboard_preview.png)
+![Blinkit Dashboard](Dashboard_preview.jpg)
 
 
 ## 📂 Files in Repository
