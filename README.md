@@ -11,6 +11,10 @@ This project presents an interactive Power BI dashboard built on Blinkit grocery
 - Power BI Desktop
 - Excel (data source)
 - DAX & Power Query
+## 📷 Dashboard Preview
+
+![Blinkit Dashboard](Dashboard_preview.png)
+
 
 ## 📂 Files in Repository
 - `Blinkit_Sales.pbix` → Power BI dashboard file
